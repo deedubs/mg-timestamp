@@ -1,0 +1,21 @@
+{
+  "name": "mg-timestamp",
+  "version": "0.0.1",
+  "description": "Mongoose Timepstamp plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/deedubs/mg-timestamp.git"
+  },
+  "keywords": [
+    "mongoose",
+    "timestamp"
+  ],
+  "author": "Dan Williams <me@deedubs.com>",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "47582c1bc9df5a52f2d25291aed513f204d7b477"
+}
