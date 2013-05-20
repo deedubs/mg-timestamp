@@ -1,7 +1,7 @@
 module.exports = function (schema) {
   schema.add({
-    created_at: { type: Date, 'default': Date.now },
-    updated_at: { type: Date }
+    created_at: { type: Date, default: Date.now },
+    updated_at: { type: Date, default: Date.now }
   });
 
   schema.pre('save', function (next) {
